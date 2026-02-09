@@ -25,9 +25,8 @@ Software engineer building human-scale products, calm systems, and practical exp
 
 ### Swift
 - [Catlock](https://github.com/ehamiter/Catlock): Locks your keyboard and trackpad so your cat doesn't wdqfjE@@@@@@oisenjvsdn ndsvlknsdnkleses
-- [nearby](https://github.com/ehamiter/nearby): Discover what's nearby via Wikipedia API
 - [RoleCall](https://github.com/ehamiter/RoleCall): iOS app that connects to a Plex Media Server to show info about what you're watching
-- [Snap](https://github.com/ehamiter/Snap): No description provided.
+- [Snap](https://github.com/ehamiter/Snap): iPhone mockup screenshots and resize functionality for app store submissions
 - [spectroslide](https://github.com/ehamiter/spectroslide): red / pink / brown noise generator
 
 ### JavaScript
