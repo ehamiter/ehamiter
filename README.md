@@ -8,7 +8,7 @@ Software engineer building human-scale products, calm systems, and practical exp
 ## Current Public Projects
 
 ### Go
-- [codex-trace](https://github.com/ehamiter/codex-trace): A terminal UI for browsing local Codex session history and exporting transcripts to Markdown
+- [agent-trace](https://github.com/ehamiter/agent-trace): A terminal UI for browsing local Codex & Claude session histories and exporting transcripts to Markdown
 
 ### Rust
 - [arkv](https://github.com/ehamiter/arkv): A fast, no-frills file archiving tool that copies files to remote servers via SFTP
@@ -18,6 +18,7 @@ Software engineer building human-scale products, calm systems, and practical exp
 - [reinhardt](https://github.com/ehamiter/reinhardt): A focused security scanner for Django applications
 
 ### Python
+- [aicalart](https://github.com/ehamiter/aicalart): Holidays, random styles, and cats turn into daily art
 - [bookerics](https://github.com/ehamiter/bookerics): bookmarks, but for Erics
 - [django-whiff](https://github.com/ehamiter/django-whiff): A simple Django template tag that combines the functionality of the `with` and `if` tags
 - [pindead](https://github.com/ehamiter/pindead): Pinboard dead link checker
