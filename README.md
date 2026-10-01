@@ -13,4 +13,5 @@ Software engineer based in Nashville, Tennessee.
 - [arkv](https://github.com/ehamiter/arkv): A fast, no-frills file archiving tool
 - [jid](https://github.com/ehamiter/jid): A distraction-free writing app built with GPUI
 - [mbox2db](https://github.com/ehamiter/mbox2db): Convert a Gmail (.mbox) export into a SQLite db
+- [mailfind](https://github.com/ehamiter/mailfind): A fast structured + full-text search over a Gmail mbox export
 - [newt](https://github.com/ehamiter/newt): Terminal UI wizard for scaffolding new projects with a .devcontainer setup
