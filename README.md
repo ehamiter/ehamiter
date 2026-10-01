@@ -6,6 +6,7 @@ Software engineer based in Nashville, Tennessee.
 
 ## Current Public Projects
 
+- [scribe](https://github.com/ehamiter/scribe): A local-first voice transcription app for macOS and iOS
 - [mdp](https://github.com/ehamiter/mdp): A two-pane Markdown editor
 - [hark](https://github.com/ehamiter/hark): An audio quality scanner
 - [seymour](https://github.com/ehamiter/seymour): A lightweight, single-binary RSS/Atom reader
